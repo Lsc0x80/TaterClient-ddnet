@@ -21,6 +21,7 @@
 #	ByFox		2023-11-14 11:24:00
 #	Sedonya		2024-06-20 03:18:10
 #       WTF             2024-11-03 15:57:20
+#	Lsc0x		2024-12-12 18:28:00
 ##### /authors #####
 
 ##### translated strings #####
@@ -2053,3 +2054,345 @@ Active: Fire
 
 Active: Hook
 == 
+
+Warlist
+== Варлист
+
+Info
+== Информация
+
+Visual
+== Визуал
+
+Update tee skin faster after being frozen
+== Обновлять скин Тии быстрее после заморозки
+
+Show ping colored circle before names
+== Показывать цветной круг пинга перед именами
+
+Hide nameplates in spec
+== Скрывать имена игроков в режиме наблюдения
+
+Show skin names in nameplate
+== Показывать названия скинов в именных табличках
+
+Freeze Stars
+== Звезды при заморозке
+
+Color Frozen Tee Skins
+== Цвета у замороженных Тии
+
+Make hammer rotate with cursor
+== Молот вращается с курсором
+
+Render all custom colored feet as white feet skin
+== Отображать все ноги с кастомными цветами белыми
+
+Input
+== Ввод
+
+Fast Inputs (-20ms input delay)
+== Быстрый ввод (-20мс задержки ввода)
+
+Extra tick other tees (increases other tees latency, \nmakes dragging slightly easier when using fast input)
+== Дополнительный тик для других Тии (Увеличивает задержку других Тии, \nСлегка облегчает драггинг при использовании быстрого ввода)
+
+Old Mouse Precision (fixes precision at low zoom levels, \nbreaks /tc, /telecursor while zoomed)
+== Старая точность мыши (Фиксит точность на маленьком приближении, \nЛомает /tc, /telecursor пока приближено)
+
+Improve mouse precision by scaling sent max distance to 1000
+== Улучшить точность мыши (Ставит cl_mouse_max_distance 1000)
+
+Anti Latency Tools
+== Инструменты от задержки
+
+Prediction Margin
+== Предел предсказания
+
+Remove prediction & antiping in freeze
+== Убрать предсказание и антипинг в заморозке
+
+Amount
+== Кол-во
+
+Delay
+== Задержка
+
+Dont predict other players if you are frozen
+== Не предсказывать других игроков, если вы заморожены
+
+Adjust your prediction margin while frozen
+== Отрегулировать предел предсказывания, пока вы заморожены
+
+Frozen Margin
+== Предел предсказывания при заморозке
+
+Other
+== Другое
+
+Run cl_run_on_join as console command
+== Запускать cl_run_on_join как консольная команда
+
+Auto Verify
+== Авто верификация
+
+Manual Verify
+== Ручная верификация
+
+Player Indicator
+== Индикатор игроков
+
+Show any enabled Indicators
+== Показать все включенные индикаторы
+
+Show only freeze Players
+== Показывать только замороженных игроков
+
+Only show after joining a team
+== Показывать только в команде
+
+Render tiny tees instead of circles
+== Показывать маленькие скины вместо кругов
+
+Indicator size
+== Размер
+
+Indicator opacity
+== Прозрачность
+
+Change indicator offset based on distance to other tees
+== Изменение смещения в зависимости от расстояния
+
+Indicator min offset
+== Минимальное смещение
+
+Indicator max offset
+== Максимальное смещение
+
+Indicator max distance
+== Максимальное расстояние
+
+Indicator offset
+== Смещение
+
+Indicator alive color
+== Жив
+
+Indicator dead color
+== Мертв
+
+Indicator save color
+== Заморожен
+
+Show screen center
+== Показывать центр экрана
+
+Show Position and angle (Mini debug)
+== Показывать позицию и угол (Мини дебаг)
+
+Show your cursor when in free spectate
+== Показывать курсор в режиме наблюдателя
+
+Spectate cursor alpha
+== Прозрачность
+
+Show when you are the last alive
+== Показывать, когда вы последний
+
+Frozen Tee Display
+== HUD Замороженных игроков
+
+Show frozen tee display
+== Включить HUD замороженных игроков
+
+Use skins instead of ninja tees
+== Использовать скины вместо ниндзя
+
+Max Rows
+== Макс. строк
+
+Tee Size
+== Размер игроков
+
+Tees Left Alive Text
+== Текст оставшихся игроков
+
+Count Frozen Tees
+== Считать замороженных игроков
+
+Tile Outlines
+== Контуры тайлов
+
+Show any enabled outlines
+== Включить контуры
+
+Only show outlines in entities
+== Показывать контуры только у тайлов
+
+Outline freeze & deep
+== Контур заморозки
+
+Outline walls
+== Контур стен
+
+Outline teleporter
+== Контур телепорта
+
+Outline unfreeze & undeep
+== Контур разморозки
+
+Outline Width
+== Ширина
+
+Outline Alpha
+== Прозрачность
+
+Outline Alpha (walls)
+== Прозрачность (стен)
+
+Freeze Outline Color
+== Заморозка
+
+Walls Outline Color
+== Стены
+
+Teleporter Outline Color
+== Телепорт
+
+Unfreeze Outline Color
+== Разморозка
+
+Ghost Tools
+== Призраки
+
+Show unpredicted ghosts for other players
+== Показывать не предсказанные призраки игроков
+
+Swap ghosts and normal players
+== Поменять призраков с игроками
+
+Predicted Alpha
+== Прозрачность (предсказанные)
+
+Unpredicted Alpha
+== Прозрачность (не предсказанные)
+
+Hide ghosts of frozen players
+== Не показывать призраков замороженных игроков
+
+Render ghosts as circles
+== Круги вместо призраков
+
+Rainbow
+== Радуга
+
+Pulse
+== Пульсация
+
+Black
+== Черный
+
+Random
+== Случайный
+
+Rainbow Others
+== Радужные игроки
+
+Rainbow speed
+== Скорость
+
+Name:
+== Название:
+
+Command:
+== Команда:
+
+Override Selected
+== Перезаписать
+
+Add Bind
+== Добавить
+
+Remove Bind
+== Удалить
+
+Use left mouse to select
+== ЛКМ чтобы выбрать
+
+Use right mouse to swap with selected
+== ПКМ чтобы поменять с выбранным
+
+Use middle mouse select without copy
+== СКМ чтобы выбрать без копирования
+
+Reset position of mouse when opening bindwheel
+== Сбросить позицию мыши при открытии колеса биндов
+
+TClient Links
+== Ссылки TClient
+
+Website
+== Веб-сайт
+
+Support
+== Поддержка
+
+TClient Developers
+== Разработчики TClient
+
+War Entries
+== Войны
+
+Override Entry
+== Перезаписать
+
+Add Entry
+== Добавить
+
+Profiles
+== Профили
+
+Your profile
+== Ваш профиль
+
+Name: %s
+== Имя: %s
+
+Clan: %s
+== Клан: %s
+
+Skin: %s
+== Скин: %s
+
+After Load
+== После Загрузки
+
+Save/Load Skin
+== Сохр./Загр. Скин
+
+Save/Load Colors
+== Сохр./Загр. Цвета
+
+Save/Load Emote
+== Сохр./Загр. Эмоцию
+
+Save/Load Name
+== Сохр./Загр. Имя
+
+Save/Load Clan
+== Сохр./Загр. Клан
+
+Save/Load Flag
+== Сохр./Загр. Флаг
+
+Load
+== Загрузить
+
+Enable Deleting
+== Включить Удаление
+
+Override
+== Перезаписать
+
+Profiles file
+== Файл Профилей
